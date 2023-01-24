@@ -4,7 +4,7 @@ package class10.JavaProject_01242023;
 Create a 2D array of integers. Develop a program which will calculate
  the sum of  even and odd numbers for that array.
  */
-public class Array2DSumOfEvenAndOdd_Task5 {
+public class Task005_Array2DSumOfEvenAndOdd {
     public static void main(String[] args) {
         int[][] num = {{2, 4, 6, 8, 5}, {5, 10, 15, 20}};
         int oddSum = 0;

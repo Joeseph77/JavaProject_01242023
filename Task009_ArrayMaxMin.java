@@ -2,7 +2,7 @@ package class10.JavaProject_01242023;
 /*
 Maximum and minimum number in the array?
  */
-public class ArrayMaxMin_Task9 {
+public class Task009_ArrayMaxMin {
     public static void main(String[] args) {
         int[] arr = {5, 15, 50, 900, 25, 2, 30, 700, 70, 90, 2100, 450, 500, 1};
         int min = arr[0];

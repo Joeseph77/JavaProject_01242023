@@ -4,7 +4,7 @@ package class10.JavaProject_01242023;
 1)Write a program to print out duplicate elements
 from an Array of Strings?
  */
-public class ArrayDuplicate_Task11 {
+public class Task_0011ArrayDuplicate {
     public static void main(String[] args) {
         String[] cars = {"Mazda", "Toyota", "BMW", "BMW", "Toyota", "Honda", "kk"};
          int k = 0;

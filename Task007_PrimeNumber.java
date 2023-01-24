@@ -3,7 +3,7 @@ package class10.JavaProject_01242023;
 /*
 Write a java program to check whether a given number is prime or not?
  */
-public class PrimeNumber_Task7 {
+public class Task007_PrimeNumber {
     public static void main(String[] args) {
         int number = 22;
         int count = 0;

@@ -6,7 +6,7 @@ import java.util.Scanner;
 2)Using Scanner create an array of countries. When an array is created,
 retrieve all values from it and while retrieving those values print capital for each country. (use 2 different loops).
  */
-public class CuntriesCapitals_Task2 {
+public class Task002_CuntriesCapitals {
     public static void main(String[] args) {
         String[] countris = new String[4];
         Scanner scan = new Scanner(System.in);

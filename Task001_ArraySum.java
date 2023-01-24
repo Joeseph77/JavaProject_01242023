@@ -4,7 +4,7 @@ import java.util.Scanner;
 1)Using Scanner create an array of integer values. After the array is created,
 calculate the sum of all stored elements in that array.
  */
-public class ArraySum_Task1 {
+public class Task001_ArraySum {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int[] arr = new int[5];

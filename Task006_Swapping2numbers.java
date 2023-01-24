@@ -2,7 +2,7 @@ package class10.JavaProject_01242023;
 /*
 6)Write a program to swap 2 numbers without a temporary variable?
  */
-public class Swapping2numbers_Task6 {
+public class Task006_Swapping2numbers {
     public static void main(String[] args) {
         /*int num1=5;
         int num2=15;

@@ -2,7 +2,7 @@ package class10.JavaProject_01242023;
 /*
 8)Write a Java Program to print the first 10 numbers of Fibonacci series.
  */
-public class FibonacciSeries_Task8 {
+public class Task008_FibonacciSeries {
     public static void main(String[] args) {
        int x=0;
        int y=1;
